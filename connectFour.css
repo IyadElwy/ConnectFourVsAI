@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+#turnShower {
+    text-align: center;
+}
+
+.circle {
+    height: 130px;
+    width: 130px;
+    background-color: gray;
+    border-radius: 50%;
+    border: solid 7px black;
+    margin: 2px;
+}
+
+/*#box1A\00000a  {*/
+/*    background-color: blue;*/
+
+/*}*/
+
+table {
+    margin: auto;
+}
+
+#playAgainBtn {
+    height: 200px;
+    width: 200px;
+}
+
+#centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
